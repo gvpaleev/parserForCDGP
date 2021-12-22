@@ -1,5 +1,6 @@
 from selenium import webdriver
 from time import sleep
+from datetime import datetime,timedelta
 
 
 class Browser():
@@ -68,8 +69,42 @@ class Browser():
         element = self.browser.find_element_by_xpath("//div[@class='dup_pat_data ng-star-inserted']/a")
         url = element.get_attribute('href')
         self.getURL(url)
+        sleep(1)
+        self.checkLoading()
+        if(self.is_flag("//mat-label[text()=' Введите причину отсутствия СНИЛС ']")):
+            self.insData('-',"//INPUT[@id='mat-input-6']")
+
+
+
+    
     #______________________________        
     
+    def addInspection(self):
+        self.click("//div[text()=' Карты осмотра ']/div/mat-icon[text()='add']")
+
+    def dateObsled(self,arg):
+        date = arg.split('-')
+        self.insData(date[2]+date[1]+date[0],"//div[text()=' Создание карты осмотра ']/..//div/div/input[@placeholder='00.00.0000']")
+
+
+    def setAge(self,before,after):
+        before = before.split('-')
+        after = after.split('-')
+        
+        age = 2021 - int(before[0]) 
+
+        self.click("//label[text()='Возрастная группа:']/..//div/div")
+        if (age<5):
+            self.click("//span[text()=' {} года ']/..".format(age))
+        else:
+            self.click("//span[text()=' {} лет ']/..".format(age))
+    
+    def create(self):
+        self.click("//button[text()='Создать ']")
+        if(self.is_flag("//div[text()=' Карта осмотра пациента с такой возрастной группой уже существует ']")):
+            print('s')
+        else:
+            print('s')
     #______________________________
     def getURL(self,url):
         self.checkLoading()
@@ -95,7 +130,7 @@ class Browser():
                 return          
 
     def is_flag(self,xPath):
-
+        sleep(0.1)
         try:
             return self.browser.find_element_by_xpath(xPath)
         except:

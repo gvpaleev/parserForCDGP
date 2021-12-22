@@ -1,4 +1,5 @@
 
+from typing import Counter
 from Browser import Browser
 from Data import Data
 
@@ -8,7 +9,8 @@ firefox = Browser('./geckodriver')
 
 for child in data.getChilds():
     
-
+    if(int(child['dateOfBirth'].split('-')[0])>2018):
+        continue
     firefox.home()
 
     firefox.sexChild(child['idSex'])
@@ -29,10 +31,20 @@ for child in data.getChilds():
         firefox.lastChild(child['name']['last'])
 
     if(firefox.getCard()):
+
         firefox.cliclCard()
-        pass
+
+        
+
+        firefox.addInspection()
+
+        firefox.dateObsled(child['cards']['card']['dateOfObsled'])
+
+        firefox.setAge(child['dateOfBirth'],child['cards']['card']['dateOfObsled'])
+        
+        firefox.create()
+        print ('1')
     else:
         print ('ss')
-        pass
 
 print('end')
