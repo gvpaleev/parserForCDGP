@@ -167,12 +167,6 @@ for i, children in enumerate(data.get().copy()):
                 click("//SPAN[text()='Мужской']/../../..")
                 click("//span[text()='Женский']/..")
         
-       
-
-
-        
-
-
 
 
         if(is_element("//mat-label[text()=' Имя ']")):

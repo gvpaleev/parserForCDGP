@@ -20,50 +20,8 @@ class Browser():
         if(self.examinationElement("//a[text()=' ПАЛЕЕВ Г. В ']")):
             print('URL:https://orph.egisz.rosminzdrav.ru Ready')
 
-    def home(self):
-        self.getURL("https://orph.egisz.rosminzdrav.ru/patient-card")
-        self.examinationElement("//h5[text()='Карта ребенка']")
-    def sexChild(self,arg):
-        if(arg=='2'):
-            self.click("//SPAN[text()='Мужской']/../../..")
-            self.click("//span[text()='Женский']/..")
-        
-    def snilsChild(self,arg):
-        if(self.examinationElement("//mat-label[text()=' СНИЛС ']")):
-            self.insData(arg,"//INPUT[@id='mat-input-5']")
-        
-    def notSnilsChild(self):
-        self.click("//input[@id='mat-checkbox-1-input']/../..")
-        self.click("//mat-label[text()='Причина отсутствия СНИЛС ']/../../../..")
-        self.click("//span[text()='Другое']/..")
-
-        if(self.examinationElement("//mat-label[text()=' Введите причину отсутствия СНИЛС ']")):
-            self.insData('-',"//INPUT[@id='mat-input-6']")
-
-    def lastChild (self,arg):
-        if(self.examinationElement("//mat-label[text()=' Фамилия ']")):
-            self.insData(arg,"//INPUT[@id='mat-input-2']")
-
-    def firstChild (self,arg):
-        if(self.examinationElement("//mat-label[text()=' Имя ']")):
-            self.insData(arg,"//INPUT[@id='mat-input-3']")
-        
-    def middleChild (self,arg):
-        if(self.examinationElement("//mat-label[text()=' Отчество ']")):
-                self.insData(arg,"//INPUT[@id='mat-input-4']")
-
-    def birthChild(self,arg):
-
-        dr = arg.split('-')
-        if(self.examinationElement("//mat-label[text()=' Дата рождения ']")):
-            self.insData('{}{}{}'.format(dr[2],dr[1],dr[0]),'//INPUT[@id="mat-input-0"]')
     
-    def getCard(self):
-        try:
-            return self.examinationElement("//mat-icon[text()='report']/..[@mattooltip='Пациенты с таким ФИО существуют']",stop = 10)
-        except:
-            return False
-
+    
     def cliclCard(self):
         self.click("//mat-icon[text()='report']/..[@mattooltip='Пациенты с таким ФИО существуют']")        
         element = self.browser.find_element_by_xpath("//div[@class='dup_pat_data ng-star-inserted']/a")
@@ -79,38 +37,18 @@ class Browser():
     
     #______________________________        
     
-    def addInspection(self):
-        self.click("//div[text()=' Карты осмотра ']/div/mat-icon[text()='add']")
-
-    def dateObsled(self,arg):
-        date = arg.split('-')
-        self.insData(date[2]+date[1]+date[0],"//div[text()=' Создание карты осмотра ']/..//div/div/input[@placeholder='00.00.0000']")
-
-
-    def setAge(self,before,after):
-        before = before.split('-')
-        after = after.split('-')
-        
-        age = 2021 - int(before[0]) 
-
-        self.click("//label[text()='Возрастная группа:']/..//div/div")
-        if (age<5):
-            self.click("//span[text()=' {} года ']/..".format(age))
+        def is_FilledIn(self):
+        if(self.is_flag("//p[text()=' Заполняется ']")):
+            return   self.is_flag("//p[text()=' Заполняется ']/../a")
         else:
-            self.click("//span[text()=' {} лет ']/..".format(age))
-    
-    def create(self):
-        self.click("//button[text()='Создать ']")
-        if(self.is_flag("//div[text()=' Карта осмотра пациента с такой возрастной группой уже существует ']")):
-            print('s')
-        else:
-            print('s')
+            return False
     #______________________________
     def getURL(self,url):
         self.checkLoading()
         self.browser.get(url)
     
     def click(self,xpath):
+        self.checkLoading()
         self.examinationElement(xpath)
         element = self.browser.find_element_by_xpath(xpath)
         element.click()
