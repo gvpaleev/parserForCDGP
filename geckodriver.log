@@ -7616,3 +7616,1139 @@ JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_
 console.info: MINT: main/search-config update being skipped
 console.log: WebExtensions: reset-default-search: starting.
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1640589739858	geckodriver	INFO	Listening on 127.0.0.1:44089
+1640589740365	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35731" "-no-remote" "-profile" "/tmp/rust_mozprofilegYa59k"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640589741378	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegYa59k/search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:35731/devtools/browser/73781673-f2ad-4f71-b55c-3a88c3ce9cb4
+1640589742955	Marionette	INFO	Listening on port 43355
+1640589742992	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640589890948	geckodriver	INFO	Listening on 127.0.0.1:44289
+1640589890954	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56803" "-no-remote" "-profile" "/tmp/rust_mozprofileyAxunM"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640589891725	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyAxunM/search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:56803/devtools/browser/f01cd86b-ecd3-4013-857a-1fdfae333241
+1640589893106	Marionette	INFO	Listening on port 35019
+1640589893176	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/opt/amdgpu/share/libdrm/amdgpu.ids: Отказано в доступе
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640589952840	geckodriver	INFO	Listening on 127.0.0.1:33063
+1640589952847	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35927" "-no-remote" "-profile" "/tmp/rust_mozprofileonEll8"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640589953632	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileonEll8/search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:35927/devtools/browser/699681a6-93aa-4815-9e35-0e6b87230862
+1640589954966	Marionette	INFO	Listening on port 43461
+1640589955074	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/opt/amdgpu/share/libdrm/amdgpu.ids: Отказано в доступе
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.info: MINT: main/search-config update being skipped
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1640590529292	geckodriver	INFO	Listening on 127.0.0.1:34221
+1640590529299	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40457" "-no-remote" "-profile" "/tmp/rust_mozprofileZUjZl5"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640590530050	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZUjZl5/search.json.mozlz4", (void 0)))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+DevTools listening on ws://localhost:40457/devtools/browser/9a180363-0b01-4e07-bcfe-7ee9ed3a0dae
+1640590531204	Marionette	INFO	Listening on port 33351
+1640590531222	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/opt/amdgpu/share/libdrm/amdgpu.ids: Отказано в доступе
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640590743933	geckodriver	INFO	Listening on 127.0.0.1:43433
+1640590743940	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40667" "-no-remote" "-profile" "/tmp/rust_mozprofileRJgKbl"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640590744600	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRJgKbl/search.json.mozlz4", (void 0)))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+DevTools listening on ws://localhost:40667/devtools/browser/95a87846-a787-421b-8e4f-08388d3f365b
+1640590745988	Marionette	INFO	Listening on port 35467
+1640590746067	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/opt/amdgpu/share/libdrm/amdgpu.ids: Отказано в доступе
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640590782983	geckodriver	INFO	Listening on 127.0.0.1:41183
+1640590782991	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59925" "-no-remote" "-profile" "/tmp/rust_mozprofileXNFVJb"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640590783719	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXNFVJb/search.json.mozlz4", (void 0)))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+DevTools listening on ws://localhost:59925/devtools/browser/8bfac668-f613-486e-926d-cfc9cadbc5e3
+1640590785134	Marionette	INFO	Listening on port 42357
+1640590785218	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/opt/amdgpu/share/libdrm/amdgpu.ids: Отказано в доступе
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640590809267	geckodriver	INFO	Listening on 127.0.0.1:60135
+1640590809273	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39607" "-no-remote" "-profile" "/tmp/rust_mozprofileZBldOO"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640590810005	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZBldOO/search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:39607/devtools/browser/2d1353ae-5b6e-43b1-8a0c-4ba02052fd14
+1640590811333	Marionette	INFO	Listening on port 38223
+1640590811399	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/opt/amdgpu/share/libdrm/amdgpu.ids: Отказано в доступе
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640590831411	geckodriver	INFO	Listening on 127.0.0.1:53955
+1640590831418	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49773" "-no-remote" "-profile" "/tmp/rust_mozprofileGHdaay"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640590832159	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGHdaay/search.json.mozlz4", (void 0)))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+DevTools listening on ws://localhost:49773/devtools/browser/11b50873-b232-4bbe-8ffb-f0a67f265959
+1640590833468	Marionette	INFO	Listening on port 44995
+1640590833542	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/opt/amdgpu/share/libdrm/amdgpu.ids: Отказано в доступе
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640590854329	Marionette	INFO	Stopped listening on port 44995
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1640590902357	geckodriver	INFO	Listening on 127.0.0.1:55925
+1640590902363	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50825" "-no-remote" "-profile" "/tmp/rust_mozprofilex5St8j"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640590903082	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilex5St8j/search.json.mozlz4", (void 0)))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:50825/devtools/browser/e970a9fc-1fd8-4ef1-83c5-e57c464c13d6
+1640590904425	Marionette	INFO	Listening on port 45957
+1640590904488	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/opt/amdgpu/share/libdrm/amdgpu.ids: Отказано в доступе
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640590960551	Marionette	INFO	Stopped listening on port 45957
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 14223, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /PROJECT/firefox-95.0.1+linuxmint1.1+una/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640590969362	geckodriver	INFO	Listening on 127.0.0.1:52057
+1640590969368	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "32791" "-no-remote" "-profile" "/tmp/rust_mozprofileFLUv9p"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640590970088	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFLUv9p/search.json.mozlz4", (void 0)))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:32791/devtools/browser/fb2f34e0-6c43-4d7c-86c7-c37ddf0973ac
+1640590971306	Marionette	INFO	Listening on port 37485
+1640590971392	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/opt/amdgpu/share/libdrm/amdgpu.ids: Отказано в доступе
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640591085034	geckodriver	INFO	Listening on 127.0.0.1:53901
+1640591085040	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34101" "-no-remote" "-profile" "/tmp/rust_mozprofilewlMfty"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640591085775	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewlMfty/search.json.mozlz4", (void 0)))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+DevTools listening on ws://localhost:34101/devtools/browser/86426677-fdea-4a77-bc41-40b844320f76
+1640591086999	Marionette	INFO	Listening on port 44201
+1640591087068	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/opt/amdgpu/share/libdrm/amdgpu.ids: Отказано в доступе
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640591153850	geckodriver	INFO	Listening on 127.0.0.1:46291
+1640591153856	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41151" "-no-remote" "-profile" "/tmp/rust_mozprofileVjsn3i"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640591154592	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVjsn3i/search.json.mozlz4", (void 0)))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+DevTools listening on ws://localhost:41151/devtools/browser/ee7aa63d-2a33-4662-b295-18b67b10fc3c
+1640591155934	Marionette	INFO	Listening on port 46093
+1640591155982	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/opt/amdgpu/share/libdrm/amdgpu.ids: Отказано в доступе
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640591248379	geckodriver	INFO	Listening on 127.0.0.1:37973
+1640591248385	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49345" "-no-remote" "-profile" "/tmp/rust_mozprofileayqtR3"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640591249125	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileayqtR3/search.json.mozlz4", (void 0)))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:49345/devtools/browser/7c00e98c-0fd7-4d2a-a596-39719939cae6
+1640591250361	Marionette	INFO	Listening on port 36497
+1640591250412	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/opt/amdgpu/share/libdrm/amdgpu.ids: Отказано в доступе
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640591270133	geckodriver	INFO	Listening on 127.0.0.1:48491
+1640591270146	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57839" "-no-remote" "-profile" "/tmp/rust_mozprofile0wu93l"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640591270895	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0wu93l/search.json.mozlz4", (void 0)))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+DevTools listening on ws://localhost:57839/devtools/browser/72bfa5c5-34b5-4986-9b33-8d6b9f59873e
+1640591272211	Marionette	INFO	Listening on port 43035
+1640591272282	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/opt/amdgpu/share/libdrm/amdgpu.ids: Отказано в доступе
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640591362752	geckodriver	INFO	Listening on 127.0.0.1:60809
+1640591362758	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49899" "-no-remote" "-profile" "/tmp/rust_mozprofiley6Jbas"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640591363574	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiley6Jbas/search.json.mozlz4", (void 0)))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:49899/devtools/browser/3934e295-b7dc-4b08-9de4-944577b63d29
+1640591364912	Marionette	INFO	Listening on port 46291
+1640591364983	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/opt/amdgpu/share/libdrm/amdgpu.ids: Отказано в доступе
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640591422403	geckodriver	INFO	Listening on 127.0.0.1:34623
+1640591422409	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34225" "-no-remote" "-profile" "/tmp/rust_mozprofilecFn1Jz"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640591423162	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecFn1Jz/search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:34225/devtools/browser/3b094025-8aa8-4c18-8328-90efb3420447
+1640591424486	Marionette	INFO	Listening on port 40417
+1640591424534	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/opt/amdgpu/share/libdrm/amdgpu.ids: Отказано в доступе
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640591756587	geckodriver	INFO	Listening on 127.0.0.1:49899
+1640591756605	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49689" "-no-remote" "-profile" "/tmp/rust_mozprofile6sq7rM"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640591757705	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6sq7rM/search.json.mozlz4", (void 0)))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+DevTools listening on ws://localhost:49689/devtools/browser/1c8e56f3-feb4-4fff-b500-e45c1d66cc44
+1640591759348	Marionette	INFO	Listening on port 42709
+1640591759437	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/opt/amdgpu/share/libdrm/amdgpu.ids: Отказано в доступе
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640591818218	geckodriver	INFO	Listening on 127.0.0.1:51763
+1640591818228	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36153" "-no-remote" "-profile" "/tmp/rust_mozprofile2LfJFj"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640591819370	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2LfJFj/search.json.mozlz4", (void 0)))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:36153/devtools/browser/e53d79be-15f2-44da-9c04-230e11e1b7a3
+1640591821064	Marionette	INFO	Listening on port 41141
+1640591821161	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/opt/amdgpu/share/libdrm/amdgpu.ids: Отказано в доступе
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640591841383	geckodriver	INFO	Listening on 127.0.0.1:37527
+1640591841394	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54099" "-no-remote" "-profile" "/tmp/rust_mozprofileRLOoVl"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640591842460	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRLOoVl/search.json.mozlz4", (void 0)))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:54099/devtools/browser/09c9b843-13d2-4121-ad49-026b819831dc
+1640591844090	Marionette	INFO	Listening on port 36225
+1640591844127	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/opt/amdgpu/share/libdrm/amdgpu.ids: Отказано в доступе
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640591867262	geckodriver	INFO	Listening on 127.0.0.1:38997
+1640591867272	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36635" "-no-remote" "-profile" "/tmp/rust_mozprofileJ5qLuz"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640591868443	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJ5qLuz/search.json.mozlz4", (void 0)))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:36635/devtools/browser/8c8f08b1-6786-42e0-959b-c942bcb0e163
+1640591870094	Marionette	INFO	Listening on port 42191
+1640591870205	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/opt/amdgpu/share/libdrm/amdgpu.ids: Отказано в доступе
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640592028548	geckodriver	INFO	Listening on 127.0.0.1:39657
+1640592028554	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38967" "-no-remote" "-profile" "/tmp/rust_mozprofileiEHdMO"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640592029344	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiEHdMO/search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:38967/devtools/browser/fecf362b-f9b0-439e-8934-e80a3472c075
+1640592030668	Marionette	INFO	Listening on port 35415
+1640592030784	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/opt/amdgpu/share/libdrm/amdgpu.ids: Отказано в доступе
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640592088687	geckodriver	INFO	Listening on 127.0.0.1:45555
+1640592088694	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58763" "-no-remote" "-profile" "/tmp/rust_mozprofilemY5PgB"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640592089468	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemY5PgB/search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:58763/devtools/browser/5eb726dd-c829-4e41-807e-009da1bc6d30
+1640592090949	Marionette	INFO	Listening on port 36591
+1640592091032	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/opt/amdgpu/share/libdrm/amdgpu.ids: Отказано в доступе
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: resource://devtools/server/actors/inspector/event-collector.js, line 530: debuggee 'https://orph.egisz.rosminzdrav.ru/scripts.js:4464' would run
+1640592267103	geckodriver	INFO	Listening on 127.0.0.1:32829
+1640592267109	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37907" "-no-remote" "-profile" "/tmp/rust_mozprofileMg5qV5"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640592267849	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMg5qV5/search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:37907/devtools/browser/43d0911f-bdff-4e01-88e5-0eb95cf37dfe
+1640592269217	Marionette	INFO	Listening on port 35249
+1640592269348	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/opt/amdgpu/share/libdrm/amdgpu.ids: Отказано в доступе
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640592546161	geckodriver	INFO	Listening on 127.0.0.1:52459
+1640592546168	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52047" "-no-remote" "-profile" "/tmp/rust_mozprofileJjRL1j"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640592546959	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJjRL1j/search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:52047/devtools/browser/6abf1bfa-39cf-40fb-9c75-f9fe6ca1e122
+1640592548388	Marionette	INFO	Listening on port 35761
+1640592548535	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/opt/amdgpu/share/libdrm/amdgpu.ids: Отказано в доступе
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640592610111	geckodriver	INFO	Listening on 127.0.0.1:56451
+1640592610117	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44179" "-no-remote" "-profile" "/tmp/rust_mozprofileBU6iDJ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640592610902	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBU6iDJ/search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:44179/devtools/browser/f1dd64e2-5bfc-4314-bdad-ed1c334b2ee5
+1640592612226	Marionette	INFO	Listening on port 44599
+1640592612366	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/opt/amdgpu/share/libdrm/amdgpu.ids: Отказано в доступе
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640592756005	geckodriver	INFO	Listening on 127.0.0.1:36297
+1640592756012	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43227" "-no-remote" "-profile" "/tmp/rust_mozprofilewVtFTC"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640592756812	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewVtFTC/search.json.mozlz4", (void 0)))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:43227/devtools/browser/d153b8a2-14a9-4ff3-ac77-57c92cfdbee4
+1640592758209	Marionette	INFO	Listening on port 36559
+1640592758240	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/opt/amdgpu/share/libdrm/amdgpu.ids: Отказано в доступе
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640592866724	geckodriver	INFO	Listening on 127.0.0.1:40189
+1640592866731	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58785" "-no-remote" "-profile" "/tmp/rust_mozprofilezYOfCv"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640592867511	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezYOfCv/search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:58785/devtools/browser/4f10372b-9816-4d1b-a7e4-a28497e2c87c
+1640592868960	Marionette	INFO	Listening on port 38551
+1640592869065	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/opt/amdgpu/share/libdrm/amdgpu.ids: Отказано в доступе
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.info: MINT: main/search-config update being skipped
+1640593257799	geckodriver	INFO	Listening on 127.0.0.1:51543
+1640593257805	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46491" "-no-remote" "-profile" "/tmp/rust_mozprofileLR58pu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640593258597	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLR58pu/search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:46491/devtools/browser/9bb17149-0209-4aa4-9d67-a073cbf536ea
+1640593259904	Marionette	INFO	Listening on port 44091
+1640593259937	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/opt/amdgpu/share/libdrm/amdgpu.ids: Отказано в доступе
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640593346679	geckodriver	INFO	Listening on 127.0.0.1:58153
+1640593346685	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33515" "-no-remote" "-profile" "/tmp/rust_mozprofileoqNNk6"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640593347460	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoqNNk6/search.json.mozlz4", (void 0)))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:33515/devtools/browser/cb74e323-3001-4c93-b490-a3fba8e708a9
+1640593349217	Marionette	INFO	Listening on port 35945
+1640593349310	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/opt/amdgpu/share/libdrm/amdgpu.ids: Отказано в доступе
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640593423791	geckodriver	INFO	Listening on 127.0.0.1:40395
+1640593423798	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51067" "-no-remote" "-profile" "/tmp/rust_mozprofile0KHqg3"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640593424587	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0KHqg3/search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:51067/devtools/browser/b67da1b7-c901-4755-982a-d264c41b380a
+1640593425881	Marionette	INFO	Listening on port 34297
+1640593425931	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/opt/amdgpu/share/libdrm/amdgpu.ids: Отказано в доступе
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640593471499	geckodriver	INFO	Listening on 127.0.0.1:44031
+1640593471505	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33195" "-no-remote" "-profile" "/tmp/rust_mozprofilebjRRrJ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640593472302	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebjRRrJ/search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:33195/devtools/browser/e362f045-559d-4a4e-bb16-8994219fac0f
+1640593473640	Marionette	INFO	Listening on port 42475
+1640593473732	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/opt/amdgpu/share/libdrm/amdgpu.ids: Отказано в доступе
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640593550719	geckodriver	INFO	Listening on 127.0.0.1:44803
+1640593550725	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34569" "-no-remote" "-profile" "/tmp/rust_mozprofileAuiB24"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640593551959	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAuiB24/search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+DevTools listening on ws://localhost:34569/devtools/browser/96a5577d-cd1e-4b77-9752-6ebaad6a3ef9
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1640593553255	Marionette	INFO	Listening on port 34943
+1640593553350	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/opt/amdgpu/share/libdrm/amdgpu.ids: Отказано в доступе
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640593576005	geckodriver	INFO	Listening on 127.0.0.1:35251
+1640593576012	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42771" "-no-remote" "-profile" "/tmp/rust_mozprofileHctBmx"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640593576790	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHctBmx/search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:42771/devtools/browser/2a4471e8-c3fb-4b4c-a474-b3b679b9827d
+1640593578196	Marionette	INFO	Listening on port 40301
+1640593578242	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/opt/amdgpu/share/libdrm/amdgpu.ids: Отказано в доступе
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.info: MINT: main/search-config update being skipped
+1640593908546	geckodriver	INFO	Listening on 127.0.0.1:36429
+1640593908552	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39815" "-no-remote" "-profile" "/tmp/rust_mozprofileC2rZNg"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640593909373	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileC2rZNg/search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+DevTools listening on ws://localhost:39815/devtools/browser/49346e5b-5a09-4536-9240-dd62fdf9ed78
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1640593910817	Marionette	INFO	Listening on port 45821
+1640593911300	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/opt/amdgpu/share/libdrm/amdgpu.ids: Отказано в доступе
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1640594035690	geckodriver	INFO	Listening on 127.0.0.1:38683
+1640594035696	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55707" "-no-remote" "-profile" "/tmp/rust_mozprofilej52yGa"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640594036468	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilej52yGa/search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:55707/devtools/browser/49e9eb8a-f297-4591-bc0f-f6af856c3719
+1640594037845	Marionette	INFO	Listening on port 42587
+1640594037923	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/opt/amdgpu/share/libdrm/amdgpu.ids: Отказано в доступе
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640594144403	geckodriver	INFO	Listening on 127.0.0.1:48145
+1640594144409	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48419" "-no-remote" "-profile" "/tmp/rust_mozprofile5phnXD"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640594145192	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5phnXD/search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+console.info: MINT: Loading search-config defaults.
+DevTools listening on ws://localhost:48419/devtools/browser/918e0e9a-a5b9-4f25-81be-852498221175
+1640594146436	Marionette	INFO	Listening on port 44681
+1640594146538	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/opt/amdgpu/share/libdrm/amdgpu.ids: Отказано в доступе
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.info: MINT: main/search-config update being skipped
+1640594442645	geckodriver	INFO	Listening on 127.0.0.1:56237
+1640594442652	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40101" "-no-remote" "-profile" "/tmp/rust_mozprofile85Js9t"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640594443453	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile85Js9t/search.json.mozlz4", (void 0)))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+DevTools listening on ws://localhost:40101/devtools/browser/f1d4b2ba-8356-45f9-b2e4-2850a6b688fc
+1640594444800	Marionette	INFO	Listening on port 34637
+1640594444878	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/opt/amdgpu/share/libdrm/amdgpu.ids: Отказано в доступе
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1640594547159	geckodriver	INFO	Listening on 127.0.0.1:41151
+1640594547166	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54487" "-no-remote" "-profile" "/tmp/rust_mozprofileUSxQp4"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640594548380	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUSxQp4/search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:54487/devtools/browser/29d2b448-d247-4886-9d15-6057f0e9d4e2
+1640594549708	Marionette	INFO	Listening on port 43741
+1640594549795	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/opt/amdgpu/share/libdrm/amdgpu.ids: Отказано в доступе
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.info: MINT: main/search-config update being skipped
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1640595205947	geckodriver	INFO	Listening on 127.0.0.1:54315
+1640595205953	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47355" "-no-remote" "-profile" "/tmp/rust_mozprofilesR2CnL"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640595206712	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesR2CnL/search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:47355/devtools/browser/a0fe39bf-946b-4933-a9e5-07e362aa5193
+1640595208143	Marionette	INFO	Listening on port 35755
+1640595208177	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/opt/amdgpu/share/libdrm/amdgpu.ids: Отказано в доступе
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640595342795	geckodriver	INFO	Listening on 127.0.0.1:40675
+1640595342801	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50701" "-no-remote" "-profile" "/tmp/rust_mozprofile7AqUwg"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640595343582	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7AqUwg/search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:50701/devtools/browser/2a7fb537-cec1-4b47-875e-c230e37c2c15
+1640595345019	Marionette	INFO	Listening on port 34741
+1640595345130	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/opt/amdgpu/share/libdrm/amdgpu.ids: Отказано в доступе
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.info: MINT: main/search-config update being skipped
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1640595842910	geckodriver	INFO	Listening on 127.0.0.1:41649
+1640595842917	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59183" "-no-remote" "-profile" "/tmp/rust_mozprofile87SGB0"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640595843717	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile87SGB0/search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:59183/devtools/browser/aefb2c55-f4e1-45a8-b4f3-0f770a188eb7
+1640595845433	Marionette	INFO	Listening on port 46273
+1640595845545	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/opt/amdgpu/share/libdrm/amdgpu.ids: Отказано в доступе
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640595983772	geckodriver	INFO	Listening on 127.0.0.1:33119
+1640595983779	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48893" "-no-remote" "-profile" "/tmp/rust_mozprofileiwlRIS"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640595984583	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiwlRIS/search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:48893/devtools/browser/adeac8c8-27b4-422e-8955-4638a03f04ad
+1640595986108	Marionette	INFO	Listening on port 42381
+1640595986208	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/opt/amdgpu/share/libdrm/amdgpu.ids: Отказано в доступе
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640596178237	geckodriver	INFO	Listening on 127.0.0.1:40091
+1640596178242	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39247" "-no-remote" "-profile" "/tmp/rust_mozprofilepqYICv"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640596179059	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepqYICv/search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:39247/devtools/browser/149c7247-1fc6-4ef3-a237-ef11d9c3456d
+1640596180470	Marionette	INFO	Listening on port 43889
+1640596180573	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/opt/amdgpu/share/libdrm/amdgpu.ids: Отказано в доступе
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.info: MINT: main/search-config update being skipped
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1640596697946	geckodriver	INFO	Listening on 127.0.0.1:34593
+1640596697952	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "32833" "-no-remote" "-profile" "/tmp/rust_mozprofileM2KzVx"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640596698719	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileM2KzVx/search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+DevTools listening on ws://localhost:32833/devtools/browser/17e2ac11-5c69-4d49-aaee-21932ee52d79
+1640596700115	Marionette	INFO	Listening on port 45129
+1640596700216	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/opt/amdgpu/share/libdrm/amdgpu.ids: Отказано в доступе
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640596719118	geckodriver	INFO	Listening on 127.0.0.1:54903
+1640596719124	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54633" "-no-remote" "-profile" "/tmp/rust_mozprofileSFMeJ0"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640596719899	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSFMeJ0/search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+console.info: MINT: Loading search-config defaults.
+DevTools listening on ws://localhost:54633/devtools/browser/9af42806-5d49-4813-85aa-56f27fe00ec5
+1640596721527	Marionette	INFO	Listening on port 38347
+1640596721549	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/opt/amdgpu/share/libdrm/amdgpu.ids: Отказано в доступе
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640596888123	geckodriver	INFO	Listening on 127.0.0.1:56053
+1640596888129	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58657" "-no-remote" "-profile" "/tmp/rust_mozprofilemftiz3"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1640596888935	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is RU
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemftiz3/search.json.mozlz4", (void 0)))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:58657/devtools/browser/4ee1d809-e3a6-4d8d-98ec-fb66fedc1387
+1640596890352	Marionette	INFO	Listening on port 41611
+1640596890503	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: main/search-config update being skipped
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/opt/amdgpu/share/libdrm/amdgpu.ids: Отказано в доступе
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://af.gosuslugi.ru/sb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.

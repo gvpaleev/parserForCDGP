@@ -19,6 +19,9 @@ childsCard.installHome()
 iEnd = len (data.getChilds()) 
 for i,child in enumerate(data.getChilds()):
     try:
+        #if (saveJson['name']['last'] != 'СЕЛИВАНОВА'):
+        #    continue
+
         print('go{}/{}'.format(i,iEnd))
     
         
@@ -107,6 +110,8 @@ for i,child in enumerate(data.getChilds()):
             inspection.insHealthGroupBefore(child['cards']['card']['healthGroupBefore'])
             inspection.insFizkultGroupBefore(child['cards']['card']['fizkultGroupBefore'])
             
+            inspection.clearDiagnos()
+
             if ('diagnosisBefore' in child['cards']['card'] and child['cards']['card']['diagnosisBefore']):
                 diagnosBefore = child['cards']['card']['diagnosisBefore']
             
@@ -143,7 +148,7 @@ for i,child in enumerate(data.getChilds()):
 
                     inspection.insFormIsskedDefaut(dateIssled)
                     
-
+            sleep(0.2)
             inspection.save()
             inspection.nextForm(' Заключение ')
 
@@ -178,7 +183,7 @@ for i,child in enumerate(data.getChilds()):
         saveJson = child.copy()
         saveJson['flags'] = e.args[0]
         data.logError(saveJson,child)
-        print ('Error')
+        print (e.args[0])
             
 
 

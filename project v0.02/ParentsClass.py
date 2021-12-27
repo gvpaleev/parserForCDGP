@@ -16,6 +16,7 @@ class ParentsClass():
         self.examinationElement(xpath)
         element = self.browser.find_element_by_xpath(xpath)
         element.click()
+        self.checkLoading()
         sleep(0.25)
 
     def is_flag(self,xpath,stop = 1):
@@ -64,7 +65,7 @@ class ParentsClass():
     def checkLoading(self):
 
         while True:
-            if (self.is_flag("//mat-spinner[@class='mat-spinner mat-progress-spinner spinner mat-primary mat-progress-spinner-indeterminate-animation ng-star-inserted']")):
+            if (self.is_flag("//mat-spinner")):
                 continue
 
             state = self.browser.execute_script('return document.readyState')

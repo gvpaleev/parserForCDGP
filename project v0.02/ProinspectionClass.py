@@ -24,9 +24,12 @@ class Proinspection(ParentsClass):
 
     def save(self):
         #pass
+        super().checkLoading()
         super().click("//button[text()=' Сохранить ']")
+        super().checkLoading()
 
     def nextForm(self,arg):
+            super().checkLoading()
             super().click("//p[text()='"+arg+"']")
             super().checkLoading()
 
@@ -60,17 +63,30 @@ class Proinspection(ParentsClass):
 
 
     def evaluationSex(self):
+        
+        if(super().is_flag("//mat-select[@ng-reflect-name='p']/div")):
+            super().click("//mat-select[@ng-reflect-name='p']/div")
+            super().click("//span[text()=' 0 ']/..")
+        
+        if(super().is_flag("//mat-select[@ng-reflect-name='ax']/div")):    
+            super().click("//mat-select[@ng-reflect-name='ax']/div")
+            super().click("//span[text()=' 0 ']/..")
+        
+        if(super().is_flag("//mat-select[@ng-reflect-name='ma']/div")):
+            super().click("//mat-select[@ng-reflect-name='ma']/div")
+            super().click("//span[text()=' 0 ']/..")
 
-        super().click("//mat-select[@ng-reflect-name='p']/div")
-        super().click("//span[text()=' 0 ']/..")
-        super().click("//mat-select[@ng-reflect-name='ax']/div")
-        super().click("//span[text()=' 0 ']/..")
-        super().click("//mat-select[@ng-reflect-name='ma']/div")
-        super().click("//span[text()=' 0 ']/..")
-        super().click("//mat-select[@ng-reflect-name='me']/div")
-        super().click("//span[text()=' 0 ']/..")
+        if(super().is_flag("//mat-select[@ng-reflect-name='me']/div")):    
+            super().click("//mat-select[@ng-reflect-name='me']/div")
+            super().click("//span[text()=' 0 ']/..")
+        
+        if(super().is_flag("//mat-select[@ng-reflect-name='fa']/div")):    
+            super().click("//mat-select[@ng-reflect-name='fa']/div")
+            super().click("//span[text()=' 0 ']/..")
 
-        super().click("//span[text()=' Отсутствует ']/../..")
+
+        if(super().is_flag("//span[text()=' Отсутствует ']/..//input[@aria-checked='false']") and super().is_flag("//span[text()=' Отсутствует ']/../..")):
+                super().click("//span[text()=' Отсутствует ']/../..")
 
     def insHealthGroupBefore(self,arg):
         super().click("//mat-label[text()='Группа здоровья']/../../../..")
@@ -81,6 +97,8 @@ class Proinspection(ParentsClass):
             '4':"//span[@class='mat-option-text'][text()=' IV группа ']/..",
             '5':"//span[@class='mat-option-text'][text()=' V группа ']/.."
         }
+        if(not super().is_flag(switch[arg])):
+            super().click("//mat-label[text()='Группа здоровья']/../../../..")
         super().click(switch[arg])
 
     def insFizkultGroupBefore(self,arg):
@@ -100,6 +118,14 @@ class Proinspection(ParentsClass):
     def addDiagAfter(self):
         super().click("//p[text()='По результатам проведения настоящего профилактического осмотра']/..//p[text()=' Добавить диагноз ']")
 
+    def clearDiagnos(self):
+        while True:
+            if(super().is_flag('//div[@ng-reflect-message="Нажмите для удаления диагноза"]')):
+                super().click('//div[@ng-reflect-message="Нажмите для удаления диагноза"]')
+                super().click("//button[text()='Да']")
+            else:
+                break
+        
 
     def insDiagBef(self,arg):
         super().insData(arg['mkb'],"//mat-label[text()='Диагноз']/../../../input")
@@ -128,10 +154,17 @@ class Proinspection(ParentsClass):
 
     def insFormIsskedDefaut(self,date):
         date = date.split('-')
-        super().insData(date[2]+date[1]+date[0],"//p[text()='Общий анализ крови']/../..//mat-label[text()=' Введите дату ']/../../../input")
-        super().insData('Норма',"//p[text()='Общий анализ крови']/../..//span[text()='Результат']/../../..//textarea")
-        super().insData(date[2]+date[1]+date[0],"//p[text()='Общий анализ мочи']/../..//mat-label[text()=' Введите дату ']/../../../input")
-        super().insData('Норма',"//p[text()='Общий анализ мочи']/../..//span[text()='Результат']/../../..//textarea")
+        if(super().is_flag("//p[text()='Общий анализ крови']/../..//mat-label[text()=' Введите дату ']/../../../input")):
+            super().insData(date[2]+date[1]+date[0],"//p[text()='Общий анализ крови']/../..//mat-label[text()=' Введите дату ']/../../../input")
+            super().insData('Норма',"//p[text()='Общий анализ крови']/../..//span[text()='Результат']/../../..//textarea")
+        
+        if(super().is_flag("//p[text()='Общий анализ мочи']/../..//mat-label[text()=' Введите дату ']/../../../input")):
+            super().insData(date[2]+date[1]+date[0],"//p[text()='Общий анализ мочи']/../..//mat-label[text()=' Введите дату ']/../../../input")
+            super().insData('Норма',"//p[text()='Общий анализ мочи']/../..//span[text()='Результат']/../../..//textarea")
+
+        if(super().is_flag("//p[text()='Электрокардиография']/../..//mat-label[text()=' Введите дату ']/../../../input")):
+            super().insData(date[2]+date[1]+date[0],"//p[text()='Электрокардиография']/../..//mat-label[text()=' Введите дату ']/../../../input")
+            super().insData('Норма',"//p[text()='Электрокардиография']/../..//span[text()='Результат']/../../..//textarea")
 
     def insHealthGroup(self,arg):
         super().click("//p[text()='Заключение']/..//mat-label[text()='Группа здоровья']/../../../..")
@@ -142,6 +175,8 @@ class Proinspection(ParentsClass):
             '4':"//span[@class='mat-option-text'][text()=' IV группа ']/..",
             '5':"//span[@class='mat-option-text'][text()=' V группа ']/.."
         }
+        if(not super().is_flag(switch[arg])):
+            super().click("//p[text()='Заключение']/..//mat-label[text()='Группа здоровья']/../../../..")
         super().click(switch[arg])
 
     def insFizkultGroup(self,arg):
@@ -156,12 +191,14 @@ class Proinspection(ParentsClass):
         super().click(switch[arg])
 
     def insZakName(self,arg):
+        if (arg == 'ЗАГРЕКОВА'):
+            arg = 'Васильева'
         super().insData(arg,"//mat-label[text()='Лицо, давшее заключение']/../../../input")
         super().click("//mat-option")
 
     def insDateZakl(self,arg):
         date = arg.split('-')
-        date = int(date[2]+date[1]+date[0])
+        date = date[2]+date[1]+date[0]
 
         if(super().is_flag("//mat-label[text()=' Дата заключения ']/../../../input")):
             super().insData(date,"//mat-label[text()=' Дата заключения ']/../../../input")
@@ -185,6 +222,9 @@ class Proinspection(ParentsClass):
             super().insData(date,"//p[text()='АКУШЕР-ГИНЕКОЛОГ']/../../bs-date-picker//input")
         if(super().is_flag("//p[text()='ДЕТСКИЙ ХИРУРГ']/../../bs-date-picker//input")):
             super().insData(date,"//p[text()='ДЕТСКИЙ ХИРУРГ']/../../bs-date-picker//input")
+
+        if(super().is_flag("//p[text()='ДЕТСКИЙ УРОЛОГ-АНДРОЛОГ (С 5 ЛЕТ)']/../../bs-date-picker//input")):
+            super().insData(date,"//p[text()='ДЕТСКИЙ УРОЛОГ-АНДРОЛОГ (С 5 ЛЕТ)']/../../bs-date-picker//input")
 
     def insRecomend(self):
         super().insData('По возрасту',"//mat-label[text()='Рекомендации']/../../../input")

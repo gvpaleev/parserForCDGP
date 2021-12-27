@@ -19,16 +19,18 @@ class Data():
         
         file.write(json.dumps(self.data,ensure_ascii=False))
         file.close()
+        pass
 
     def logGood(self,item,itemRemove):
         f = open("logGood.json","a")
         f.write(json.dumps(item,ensure_ascii=False))
         f.close()
         self.remove(itemRemove)
-
+        pass
 
     def logError(self,item,itemRemove):
-        f = open("logError.json","a")
-        f.write( json.dumps(item,ensure_ascii=False) )
-        f.close()
-        self.remove(itemRemove)
+        #f = open("logError.json","a")
+        #f.write( json.dumps(item,ensure_ascii=False) )
+        #f.close()
+        #self.remove(itemRemove)
+        pass
