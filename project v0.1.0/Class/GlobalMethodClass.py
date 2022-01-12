@@ -42,7 +42,7 @@ class GlobalMethodClass():
 
         self.checkLoading()
 
-    def examinationElement(self,xpath,stop = 50):
+    def examinationElement(self,xpath,stop = 100):
         self.checkLoading()
         
         while True:
